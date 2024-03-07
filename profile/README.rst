@@ -4,7 +4,9 @@ SyNAP
 Synaptics Neural Network Acceleration and Processing
 ----------------------------------------------------
 
-SyNAP is an acronym for *Synaptics Neural Network Acceleration and Processing*. It is a full AI framework support various Synaptics SoCs and is composed of multiple components:
+SyNAP is an acronym for *Synaptics Neural Network Acceleration and Processing*; it is a full AI framework supporting various Synaptics SoCs.
+
+SyNAP is composed of multiple components:
 
 * the `SyNAP documentation <https://syna-synap.github.io/doc>`__
 * the `SyNAP toolkit <https://github.com/syna-synap/toolkit/pkgs/container/toolkit>`__
